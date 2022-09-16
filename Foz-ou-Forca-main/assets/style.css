@@ -1,0 +1,95 @@
+/* VARIABLES */
+:root{
+    --black-color: #252022;
+    --white-color: #dcdcdc;
+    --orange-color: #da7611;
+    --aqua-color: #1ee3e3;
+}
+
+/* GERAL */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    color: var(--white-color);
+    font-family: 'Poppins', sans-serif;
+    font-weight: 500;
+    text-decoration: none;
+    text-align: center;
+}
+
+body {
+    background-color: hsl(50, 33%, 25%);
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    height: 100vh;
+    overflow: overlay;
+}
+
+header{
+    padding-block: 5px;
+}
+
+main {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    height: 80%;
+}
+
+button {
+    background-color: var(--white-color);
+    color: var(--black-color);
+    border: none;
+    border-radius: 8px;
+    padding: 0.5rem;
+    cursor: pointer;
+}
+
+.hide {
+    display: none;
+}
+
+/* GAME */
+
+#game-status {
+    margin: 0;
+    position: absolute;
+    top: 15%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
+
+.win {
+    color: var(--black-color);
+}
+
+.lose {
+    color: var(--red-color);
+}
+
+/* VIRTUAL KEYBOARD */
+
+.letter {
+    font-size: 1rem;
+    margin: 0.25rem;
+    width: 3rem;
+}
+
+.correct {
+    color: var(--green-color);
+    opacity: 0.3;
+}
+
+.incorrect {
+    color: var(--red-color);
+    opacity: 0.7;
+}
+
+/*Imagem*/
+
+img{
+    width: 250px;
+}
