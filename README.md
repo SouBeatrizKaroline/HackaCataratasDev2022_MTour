@@ -2,6 +2,6 @@
 Arcade Age (Equipe 1) com o projeto M'Tour
 
 ## Integrantes
-Beatriz Karoline
-Ana Paula Marcello
-Eduardo Mouta
+##### Beatriz Karoline
+##### Eduardo Mouta
+##### Ana Paula Marcello
