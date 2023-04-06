@@ -4,8 +4,8 @@
 
 ## Arcade Age (Equipe 1)
 
-> Beatriz Karoline
-> Eduardo Mouta
+> Beatriz Karoline |
+> Eduardo Mouta |
 > Ana Paula Marcello
 
 Projeto construído durante o Hackatour Cataratas Developers 2022.
