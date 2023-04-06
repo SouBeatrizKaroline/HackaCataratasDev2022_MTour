@@ -1,6 +1,6 @@
 # M'Tour
 
-![preview](.\img\readme\previa.png)
+![preview](./img/readme/previa.png)
 
 ## Arcade Age (Equipe 1)
 
