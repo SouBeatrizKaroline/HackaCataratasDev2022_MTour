@@ -10,7 +10,7 @@
 
 Projeto construído durante o Hackatour Cataratas Developers 2022.
 
-[🔗 Clique aqui para acessar](https://soubeatrizkaroline.github.io/HackatourCataratasDevelopers2022/)
+[🔗 Clique aqui para acessar](https://soubeatrizkaroline.github.io/HackaCataratasDev2022_MTour/)
 
 
 ## 🛠 Tecnologias
